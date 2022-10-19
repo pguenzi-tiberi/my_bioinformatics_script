@@ -1,1 +1,3 @@
-# my_bioinformatics_script
+# My bioinformatics script
+
+Take what you want !
